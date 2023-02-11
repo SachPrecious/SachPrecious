@@ -21,7 +21,7 @@ Here are a few of the projects I've been working on:
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 🤝
 
-- 👀 I’m interested in Software Development and Cloud Engineering
+- 👀 I’m interested in Software Development and Cloud Computing
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Connect me on LinkedIn https://lk.linkedin.com/in/sachithra-manamperi-4a93851a5
