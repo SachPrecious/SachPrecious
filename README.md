@@ -17,7 +17,7 @@ In my free time, I enjoy 💻 learning new programming languages, 🧪 experimen
 Here are a few of the projects I've been working on:
 
 - **Project 1**: A 🌥️ cloud-based application that automates a certain process, reducing manual intervention and increasing efficiency, using Jenkins for CI/CD.
-- **Project 2**: An 💻 infrastructure automation project, using Ansible and Terraform, that sets up and configures a multi-tier web application environment on AWS.
+- **Project 2**: An 💻 infrastructure automation project using Terraform, that sets up and configures a multi-tier web application environment on AWS.
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 🤝
 
