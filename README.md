@@ -1,4 +1,26 @@
-- 👋 Hi, I’m Sachithra Manamperi 
+# 💻 Hi, I'm Sachithra
+
+I am a trainee DevOps Engineer with a passion for 🤖 automation and 🌥️ cloud technologies. I'm always on the lookout for new and innovative ways to optimize and streamline processes, and I believe that technology has the power to make a positive impact on the world.
+
+In my free time, I enjoy 💻 learning new programming languages, 🧪 experimenting with different technologies, and 🤝 contributing to open-source projects.
+
+## Skills
+- 🔧 Automation
+- 💻 Cloud Technologies (AWS, Azure)
+- 🔄 Continuous Integration and Deployment (CI/CD) with Jenkins
+- 💻 Virtualization (VMWare, Docker)
+- 📈 Configuration Management Tools
+- 🌎 Terraform
+
+## Projects
+
+Here are a few of the projects I've been working on:
+
+- **Project X**: A 🌥️ cloud-based application that automates a certain process, reducing manual intervention and increasing efficiency, using Jenkins for CI/CD.
+- **Project Y**: An 💻 infrastructure automation project, using Ansible and Terraform, that sets up and configures a multi-tier web application environment on AWS.
+
+Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project! 🤝
+
 - 👀 I’m interested in Software Development and Cloud Engineering
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on different projects
