@@ -1,6 +1,6 @@
 # 💻 Hi, I'm Sachithra
 
-I am a trainee DevOps Engineer with a passion for 🤖 automation and 🌥️ cloud technologies. I'm always on the lookout for new and innovative ways to optimize and streamline processes, and I believe that technology has the power to make a positive impact on the world.
+I am an Associate Cloud Security Engineer with a passion for 🤖 automation and 🌥️ cloud technologies. I'm always on the lookout for new and innovative ways to optimize and streamline processes, and I believe that technology has the power to make a positive impact on the world.
 
 In my free time, I enjoy 💻 learning new programming languages, 🧪 experimenting with different technologies, and 🤝 contributing to open-source projects.
 
